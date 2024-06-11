@@ -3,7 +3,7 @@ const commands = {
     code: '1',
     value: {
       off: 0,
-      on: 255,
+      on: 1,
     },
   },
   mode: {
